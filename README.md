@@ -5,7 +5,7 @@
 Coming soon!
 
 # Hands-on Guide
-Coming soon!
+[Google Doc link to Step-by-Step instruction guide](https://docs.google.com/document/d/1iMGwnsHQPvRET5IJmJuY2omI-Li74ATJakE3hiHxZ18/edit?usp=sharing).
 
 # Webhook Integration Sample ServerCode
 
