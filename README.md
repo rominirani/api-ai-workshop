@@ -9,7 +9,7 @@ Coming soon!
 
 # Webhook Integration Sample ServerCode
 
-- Golang Server
-- Python Server
-- Node.js Server
+- [Golang Server](https://github.com/rominirani/api-ai-workshop/tree/master/webhook%20implementations/golang)
+- [Python Server](https://github.com/rominirani/api-ai-workshop/tree/master/webhook%20implementations/python)
+- [Node.js Server](https://github.com/rominirani/api-ai-workshop/tree/master/webhook%20implementations/nodejs)
 
