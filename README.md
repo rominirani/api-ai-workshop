@@ -2,10 +2,10 @@
 <a href="https://api.ai">API.AI</a> Workshop Material. This can be used to create a Conversational Agent for a simple Linear Conversation using API.AI. 
 
 # Presentation
-Coming soon!
+[Building Conversational Chatbot Interfaces with API.AI](https://goo.gl/goxv9h)
 
 # Hands-on Guide
-[Google Doc link to Step-by-Step instruction guide](https://docs.google.com/document/d/1iMGwnsHQPvRET5IJmJuY2omI-Li74ATJakE3hiHxZ18/edit?usp=sharing).
+[Google Doc link to Step-by-Step instruction guide](https://goo.gl/doyIuL)
 
 # Webhook Integration Sample ServerCode
 
