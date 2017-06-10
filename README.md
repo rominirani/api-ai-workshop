@@ -15,5 +15,5 @@
 
 # Designing Google Home Bot Interactions with BotSociety.io
 
-- [Blog Post] (https://medium.com/@iromin/designing-google-home-interactions-with-botsociety-io-a3330b47a2d0)
-- [Video Link] (https://www.youtube.com/watch?v=7LzzJtqE9Kw)
+- [Blog Post](https://medium.com/@iromin/designing-google-home-interactions-with-botsociety-io-a3330b47a2d0)
+- [Video Link](https://www.youtube.com/watch?v=7LzzJtqE9Kw)
