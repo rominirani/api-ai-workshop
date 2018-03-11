@@ -1,11 +1,11 @@
-# Workshop on building Conversational Agents using API.AI 
-<a href="https://api.ai">API.AI</a> Workshop Material. This can be used to create a Conversational Agent for a simple Linear Conversation using API.AI. 
+# Workshop on building Conversational Agents using Dialogflow
+<a href="https://dialogflow.com">Dialogflow</a> Workshop Material. This can be used to create a Conversational Agent for a simple Linear Conversation using Dialogflow. 
 
 # Presentation
 [Building Conversational Chatbot Interfaces with API.AI](https://goo.gl/goxv9h)
 
 # Hands-on Guide
-[Google Doc link to Step-by-Step instruction guide](https://goo.gl/doyIuL)
+[Blog post to the guide](https://rominirani.com/hands-on-with-api-ai-google-assistant-writing-your-first-conversation-agent-a6a7dcdaba27)
 
 # Webhook Integration Sample ServerCode
 
